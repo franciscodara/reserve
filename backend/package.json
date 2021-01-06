@@ -1,0 +1,17 @@
+{
+  "name": "reserve",
+  "version": "1.0.0",
+  "description": "Aplicativo de reservas desenvolvido em ReactJS, React Native, NodeJS e Javascript. ",
+  "main": "index.js",
+  "author": "@franciscodara",
+  "license": "MIT",
+  "scripts": {
+    "dev":"nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
